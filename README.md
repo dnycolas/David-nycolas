@@ -7,7 +7,7 @@
 ## 🌐 Meios de contato:
 <a href="mailto:dnycolas088@mail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/david-nycolas-105a63245/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 
-# 💻 Tecnologia que uso:
+# 💻 Tecnologias que uso:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 # 📊 GitHub Status:
 ![](https://github-readme-stats.vercel.app/api?username=dnycolas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
